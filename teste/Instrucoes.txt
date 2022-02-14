@@ -1,0 +1,5 @@
+﻿Crie um programa para ler os dados de N funcionarios, 
+depois instancie esse numero de funcionarios com os seguintes dados:
+ID, Nome, Data de nascimento, Cargo, Salario.
+Posteriormente Aumente o salario do funcionario 1 em 10%;
+Liste todos os funcionarios e crie uma lista em csv com os dados de todos os funcionarios.
